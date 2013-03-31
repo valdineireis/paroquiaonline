@@ -1,4 +1,4 @@
 paroquiaonline
 ==============
 
-Sistema para igreja
+Sistema para administração de igreja.
