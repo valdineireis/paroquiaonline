@@ -9,7 +9,7 @@ import br.com.caelum.vraptor.interceptor.Interceptor;
 import br.com.caelum.vraptor.resource.ResourceMethod;
 import br.com.valdinei.paroquiaonline.anotacao.NoCache;
 
-@Intercepts
+@Intercepts(before=AutenticacaoInterceptor.class)
 public class NoCacheInterceptor implements Interceptor {
 
 	private final HttpServletResponse response;
