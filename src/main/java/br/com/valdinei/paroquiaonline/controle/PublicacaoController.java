@@ -57,6 +57,7 @@ public class PublicacaoController {
 		
 		Publicacao find = repository.find(publicacao.getId());
 		publicacao.setDhCriada(find.getDhCriada());
+		publicacao.setDhAlterada(Calendar.getInstance());
 		
 		repository.update(publicacao);
 		result.redirectTo(this).index();

@@ -37,6 +37,10 @@ public class Publicacao extends Entity {
 	@Temporal(TemporalType.TIMESTAMP)
 	private Calendar dhPublicada;
 	
+	@Column
+	@Temporal(TemporalType.TIMESTAMP)
+	private Calendar dhAlterada;
+	
 	private boolean snPublicada;
 	
 	@Column(length = 150)
@@ -128,6 +132,14 @@ public class Publicacao extends Entity {
 
 	public void setTags(String tags) {
 		this.tags = tags;
+	}
+
+	public Calendar getDhAlterada() {
+		return dhAlterada;
+	}
+
+	public void setDhAlterada(Calendar dhAlterada) {
+		this.dhAlterada = dhAlterada;
 	}
 
 	@Transient
