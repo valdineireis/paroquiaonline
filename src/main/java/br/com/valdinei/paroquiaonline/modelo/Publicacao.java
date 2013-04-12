@@ -41,6 +41,8 @@ public class Publicacao extends Entity {
 	
 	@Column(length = 150)
 	private String imagem;
+	
+	private String tags;
 
 	@ManyToOne
 	private Paroquia paroquia;
@@ -120,6 +122,14 @@ public class Publicacao extends Entity {
 		this.comunidade = comunidade;
 	}
 	
+	public String getTags() {
+		return tags;
+	}
+
+	public void setTags(String tags) {
+		this.tags = tags;
+	}
+
 	@Transient
 	public String getTituloUrl() {
 		return Texto.formataUrl( getTitulo() );

@@ -42,6 +42,12 @@
 	</div>
 	
 	<div class="field">
+		Tags:<br />
+	
+		<input type="text" name="publicacao.tags" value="${publicacao.tags}"/>
+	</div>
+	
+	<div class="field">
 		Publicar:<br />
 	
 		<input type="checkbox" name="publicacao.snPublicada" <c:if test="${publicacao.snPublicada}">checked="checked"</c:if> />
