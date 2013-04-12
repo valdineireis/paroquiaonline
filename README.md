@@ -20,8 +20,8 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 ## Donate (Doar)
 
-You can do it by [PayPal](https://www.paypal.com/cgi-bin/webscr?cmd=_flow&SESSION=NxiOo9CQITKn6JCVGoqRhyRLOfvR6g8HI0x1SBs0crKAXgZlaHPmFB57eWG&dispatch=50a222a57771920b6a3d7b606239e4d529b525e0b7e69bf0224adecfb0124e9b61f737ba21b08198ccf805f1b90b660c53f96f39c1a34e95). Thanks!
-(Você pode fazer isso pelo [PayPal](https://www.paypal.com/cgi-bin/webscr?cmd=_flow&SESSION=NxiOo9CQITKn6JCVGoqRhyRLOfvR6g8HI0x1SBs0crKAXgZlaHPmFB57eWG&dispatch=50a222a57771920b6a3d7b606239e4d529b525e0b7e69bf0224adecfb0124e9b61f737ba21b08198ccf805f1b90b660c53f96f39c1a34e95). Obrigado!) 
+You can do it by [PayPal](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=9HNNWCB7QAUUA). Thanks!
+(Você pode fazer isso pelo [PayPal](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=9HNNWCB7QAUUA). Obrigado!) 
 
 # (:
 
