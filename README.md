@@ -1,6 +1,6 @@
 # Paroquia on-line
 
-Sistema para administração de igreja.
+Trabalho voluntário para a criação de um sistema que automatize e facilite as ações realizadas na administração da igreja católica de Santo Amaro - Itapemirim-ES. Mas esse mesmo sistema poderá ser usado por qualquer outra igreja!
 
 ## Recursos
 
